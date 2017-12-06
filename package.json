@@ -1,0 +1,19 @@
+{
+  "name": "roblox-flag-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "corecii@corecii.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "cron-parser": "^2.4.3",
+    "fs-extra": "^4.0.2",
+    "node-cron": "^1.2.1",
+    "simple-git": "^1.80.1",
+    "sort-object-keys": "^1.1.2"
+  }
+}
