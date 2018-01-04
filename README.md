@@ -12,3 +12,7 @@ Logs changes to Roblox fast flags and other flags.
 4. roblox-flag-log will print/log the git diff
 5. roblox-flag-log will make a git commit with all of the files. If there are no changes, git ignores the commit
 6. roblox-flag-log will repeat every hour
+
+# Preview
+
+![](https://i.imgur.com/8yKcTqu.png)
